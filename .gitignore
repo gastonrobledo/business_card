@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+platforms/
+plugins/
+.tmp
+.sass-cache
+*.swp
+*.swo
+*.log
+*.DS_Store
